@@ -31,7 +31,8 @@ nav {
 .logo {
     width: 140px;
     font-size: 25px;
-    color: #90A0D9;
+    color: #eff0f3;
+
     text-decoration: none;
 }
 
@@ -62,7 +63,8 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     font-size: 18px;
-    color: #B4BDDD;
+    color: #eff0f3;
+
 }
 
 nav ul li a::after {
@@ -78,7 +80,8 @@ nav ul li a::after {
 
 nav ul li a:hover::after {
     width: 100%;
-    color: #90A0D9;
+    color: #eff0f3;
+
 }
 
 nav .fas {
@@ -86,7 +89,8 @@ nav .fas {
 }
 
 .bi-brightness-high {
-    color: #90A0D9;
+    color: #eff0f3;
+
     cursor: pointer;
 }
 
@@ -188,13 +192,14 @@ nav .fas {
 
 #home .home-content .text-1 {
     font-size: 40px;
-    color: #B4BDDD;
+    color: #eff0f3;
+
 }
 
 #home .home-content .text-2 {
     font-size: 70px;
     font-weight: 600;
-    color: #90A0D9;
+    color: #eff0f3;
 }
 
 #home .home-content .text-3 {
@@ -203,13 +208,13 @@ nav .fas {
 }
 
 #home .home-content .text-3 span {
-    color: #B4BDDD;
+    color: #eff0f3;
     font-weight: 600;
 }
 
 #home .home-content a {
     display: inline-block;
-    color: #90A0D9;
+    color: #eff0f3;
     background: none;
     border: none;
     font-size: 25px;
@@ -293,7 +298,8 @@ nav .fas {
 #user-detail-intro {
     margin-top: 3%;
     margin-left: 10%;
-    color: #90A0D9;
+    color: #eff0f3;
+
     font-size: 18px;
     font-weight: 500;
 }
@@ -369,7 +375,8 @@ nav .fas {
     display: flex;
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
     background-color: RGB(35, 40, 62);
-    color: #90A0D9;
+    color: #eff0f3;
+
     margin-bottom: 5%;
     padding: 3% 1% 3% 1%;
     border-radius: 20px;
@@ -426,7 +433,8 @@ nav .fas {
 
 .project-github-link a {
     text-decoration: none;
-    color: #90A0D9;
+    color: #eff0f3;
+
 }
 
 .project-github-link:hover {
@@ -449,7 +457,8 @@ nav .fas {
 
 .project-deployed-link a {
     text-decoration: none;
-    color: #90A0D9;
+    color: #eff0f3;
+
 }
 
 .project-deployed-link:hover {
