@@ -314,11 +314,12 @@ nav .fas {
 }
 
 .skill {
+    text-align: center;
     height: auto;
     width: 70%;
     margin: auto;
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     gap: 20% 3%;
     padding-bottom: 50px;
     margin-bottom: 8%;
@@ -347,6 +348,7 @@ nav .fas {
     font-size: 20px;
     text-align: center;
     margin-top: 0px;
+    color:  #90A0D9;
 }
 
 /* ........................................Project Section .................................. */
