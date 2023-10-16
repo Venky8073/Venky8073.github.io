@@ -282,6 +282,7 @@ nav .fas {
     width: 70%;
     display: flex;
     justify-content: space-between;
+    gap: 20px;
 }
 
 .about-section1>div>img {
