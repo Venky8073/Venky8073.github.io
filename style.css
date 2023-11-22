@@ -296,11 +296,12 @@ nav .fas {
 }
 
 #user-detail-intro {
-    margin-top: 3%;
+    margin-top: 10%;
     margin-left: 10%;
     color: #eff0f3;
 
-    font-size: 18px;
+
+    font-size: 20px;
     font-weight: 500;
 }
 
@@ -557,7 +558,12 @@ nav .fas {
 
 /* -------------------media query------------------------------------ */
 
-
+@media screen and (max-width:950px) {
+    .about-section1{
+        display: flex;
+        flex-direction: column;
+    }
+}
 @media screen and (min-width: 820px) and (max-width:1180px) {
 
 
