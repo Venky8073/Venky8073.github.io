@@ -433,6 +433,8 @@ nav .fas {
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    color: white;
+    text-decoration: none;
 }
 
 .project-github-link a {
@@ -457,6 +459,8 @@ nav .fas {
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    color: white;
+    text-decoration: none;
 }
 
 .project-deployed-link a {
